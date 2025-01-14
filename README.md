@@ -2,7 +2,7 @@
 In this repository we have two files:
 
 
-1) Notebook: On this notebook is my attempt to create a transfer learning project for image classifiction
+1) **Notebook**: On this notebook is my attempt to create a transfer learning project for image classifiction
 
   The model that I create has these parts:
    - VGG16: Pretrained model that is used for features extraction
@@ -13,6 +13,6 @@ In this repository we have two files:
 
   The notebook was created at Kaggle, so the dataset was imported for there.
 
-2) Model: The output model, after the training.
+2) **Model**: The output model, after the training.
 
 
